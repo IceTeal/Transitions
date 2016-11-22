@@ -16,7 +16,7 @@
     <FrameLayout
         android:id="@+id/scene_root"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_height="50dp">
         <include layout="@layout/a_scene" />
     </FrameLayout>
 
